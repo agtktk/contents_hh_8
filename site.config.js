@@ -4,7 +4,7 @@ export const siteConfig = {
   siteDescription: '정보이용료현금 지급의 기준. 까다로운 한도 조회부터 최종 정산까지 365일 실시간으로 친절하게 안내합니다.',
   author: '희망티켓 010-9469-1051',
   defaultImage: '/images/sample.png',
-  naverVerificationCode: '',
+  naverVerificationCode: 'a7d65bdc6f09cfa6ab0a3e0ab3201a073e3f42cb',
   googleVerificationCode: '',
   company: '희망티켓',
   phone: '01094691051',
